@@ -12,6 +12,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Use pretrained model
+You can download the pre-trained model in [here](https://drive.google.com/file/d/1AusHvpatUIXogsrs5o-6uuuCd-5qvR3b/view?usp=share_link)
+
 ## Run experiments
 ```bash
 python experiments.py
