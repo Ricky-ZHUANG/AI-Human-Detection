@@ -1,4 +1,5 @@
 # Face Net: An AI-generated Face Detection Model Integrating Multiple Informatics Sources
+![Overview](Face Net Model.png)
 
 ## Quick start
 ```
